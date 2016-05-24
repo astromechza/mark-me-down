@@ -13,6 +13,10 @@ The --listen-port field is provided in order to specify a particular port.
         Server the markdown on this port (default 80)
 ```
 
+## How to get it
+
+Build it yourself, or download from the repository releases page.
+
 ## Example
 
 ```
@@ -21,7 +25,7 @@ Listening on localhost:8080...
 Attempting to open a browser window to the address..
 ```
 
-## How to build
+## How to build the binaries
 
 ```
 $ ./make
